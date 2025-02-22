@@ -1,0 +1,41 @@
+form{
+  position: relative;
+  place-self: center;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+    border-bottom: 3px solid #b74b4b;
+  background: rgb(225, 64, 64);
+  width: 28%;
+  border-radius: 5px;
+}
+.fields{
+  padding-left: 10px;
+  font-size: 15px;
+  height: 30px;
+  width: 350px;
+  border-radius: 5px;
+}
+.log_btn{
+  margin-top: 20px;
+  width: 180px;
+  font-size: 20px;
+  height: 50px;
+  border-radius: 5px;
+  font-weight: bold;
+  color: #ffff;
+  background: black;
+  transition: 1s;
+}
+.log_btn:hover{
+  color: #ccad17;
+  transition: 1s;
+}
+textarea{
+  font-size: 15px;
+  border-radius: 5px;
+  padding-left: 10px;
+}
+body{
+  background-color: black;
+}
